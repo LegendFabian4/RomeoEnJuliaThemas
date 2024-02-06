@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+}
+header {
+    color:darkgoldenrod;
+    text-align: center;
+}
+#button1 {
+    background-color:red;
+    color: white;
+    border-color: #ff0000;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+#button2 {
+    background-color: black;
+    color: white;
+    border-color: black;
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#button3 {
+    background-color:magenta;
+    color: white;
+    border-color: magenta;
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Playfair Display, Palatino, 'Times New Roman', serif;
+
+}
+img {
+    width: 500px;
+}
