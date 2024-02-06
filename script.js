@@ -1,6 +1,6 @@
 
 function Roma() {
-    alert('Thema 1 is Romantiek, er komt veel liefde voor tussen Romeo en Julia');
+    alert('Thema 1 is de dood, Romeo gaat bijvoorbeeld dood');
   }
   document.getElementById('button1').addEventListener('click', Roma);
   
